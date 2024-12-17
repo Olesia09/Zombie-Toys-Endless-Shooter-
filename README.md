@@ -1,5 +1,5 @@
-Platform Minimum Requirements
- PC, MAC AND LINUX STANDALONE
+Platform Minimum Requirements:
+PC, MAC AND LINUX STANDALONE
  OS: Windows XP SP2+, Mac OS X 10 .8+, Ubuntu 12 .04+, SteamOS+ 
 Graphics card: DX9 (shader model 2 .0) capabilities; generally 
 everything made since 2004 should work
